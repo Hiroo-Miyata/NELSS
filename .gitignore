@@ -1,0 +1,5 @@
+/data/raw/*
+!/data/raw/README.md
+/data/interim/*
+!/data/interim/README.md
+/data/preprocessed/*
